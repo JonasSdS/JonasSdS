@@ -47,6 +47,25 @@
     style="padding-right: 10 px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
+
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10 px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+# Estatísticas 📊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSdS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+          
           
           
           
