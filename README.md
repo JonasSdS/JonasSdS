@@ -62,7 +62,8 @@
 
 # Estatísticas 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSdS&show_icons=true&theme=omni&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaskz15&show_icons=true)
+
 
 
 
