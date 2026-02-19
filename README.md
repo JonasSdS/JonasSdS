@@ -60,9 +60,6 @@
 <br/>
 <br/>
 
-# Estatísticas 📊
-
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasSdS&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 
